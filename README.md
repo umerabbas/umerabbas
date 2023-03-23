@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @umerabbas
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on non trivial projects
 - 📫 How to reach me umerabbasss@gmail.com
 
 <!---
